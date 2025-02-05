@@ -30,7 +30,7 @@
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/varni152/)
 
 **LeetCode Stats:**  
-[![LeetCode Badge](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=ABeeZee)](https://leetcode.com/varni1505/)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=varni1505&theme=dark)
 
 **GFG Stats:**  
 ![Problems Solved](https://img.shields.io/badge/Solved-500%2B%20Problems-brightgreen?style=flat-square)
