@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Varnikumar Patel 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
@@ -25,7 +25,7 @@
 
 ### 🛠️ Recent Projects
 
-#### [Project 1](https://github.com/yourusername/project1)
+#### [Project 1][(https://github.com/yourusername/project1)](https://github.com/Varni1512/Imagify)
 📝 Short description of your project. Tech stack used and main features.
 
 #### [Project 2](https://github.com/yourusername/project2)
