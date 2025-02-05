@@ -38,6 +38,30 @@
 
 ---
 
+### 🏅 GeeksforGeeks Achievements
+
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/varni152)
+
+**GFG Stats:**  
+![Problems Solved](https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=flat-square)
+![Coding Score](https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=flat-square)
+![Course Completion](https://img.shields.io/badge/Courses-10%2B%20Completed-orange?style=flat-square)
+![Contest Rank](https://img.shields.io/badge/Contest%20Rank-Under%20500%20🏆-yellowgreen?style=flat-square)
+
+**Key Highlights:**  
+- ✅ 90%+ Problem Solving Accuracy  
+- 🔥 60+ Days Coding Streak  
+- 💻 250+ Code Submissions  
+- 📚 Expert in DSA & Algorithm Design
+
+**Recent Activity:**  
+- Solved "Longest Consecutive Sequence" (Hard)  
+- Completed "System Design" Course  
+- Participated in Weekly Contest #125  
+- Earned "Problem Solver" Badge
+
+---
+
 ### 🚀 Projects
 
 #### [Imagify](https://github.com/Varni1512/Imagify)
