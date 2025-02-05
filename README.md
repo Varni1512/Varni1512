@@ -52,9 +52,13 @@
 
 ### 📈 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Varni1512=yourusername&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Varni1512&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Varni1512&theme=dark&hide_border=true)
+![Varni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varni1512&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varni1512&layout=compact&theme=radical&hide_border=true)
+
+[![Varni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
