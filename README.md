@@ -69,6 +69,19 @@
 - Earned "Problem Solver" Badge
 
 ---
+### 🏆 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername/)
+
+**LeetCode Stats:**  
+[![LeetCode Badge](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=ABeeZee)](https://leetcode.com/yourusername/)
+
+**GFG Stats:**  
+![Problems Solved](https://img.shields.io/badge/Solved-500%2B%20Problems-brightgreen?style=flat-square)
+![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1800%2B-blue?style=flat-square)
+
+---
 
 ### 🚀 Projects
 
