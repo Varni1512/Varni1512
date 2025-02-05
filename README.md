@@ -54,7 +54,7 @@
 
 ### 📈 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Varni1512&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Varni1512&theme=dark)](https://git.io/streak-stats)
 
 ![Varni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varni1512&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
