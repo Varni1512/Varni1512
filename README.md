@@ -26,60 +26,17 @@
 
 ### 🏆 Coding Profiles
 
-### 🏅 LeetCode Achievements
-
 [![LeetCode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/varni1505/)
 [![GeeksForGeeks Profile](https://img.shields.io/badge/-GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/varni1505)
 
 **LeetCode Stats:**  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20)](https://leetcode.com/varni1505/)
 
-**Key Highlights:**
-- ⭐ Total Problems Solved: 300+ (Customize with your actual count)
-- 🏆 Contest Rating: 1600+ (Update with your actual rating)
-- 📈 Max Streak: 50+ Days (Update with your streak)
-- 🥇 Top % Ranking: 10% (Add your actual percentile)
-
-**Recent Badges:**  
-![LeetCode Badge](https://img.shields.io/badge/Weekly%20Contest-350%2B%20Rank-blue?style=flat-square)
-![LeetCode Badge](https://img.shields.io/badge/Daily%20Challenge-100%25%20Accuracy-brightgreen?style=flat-square)
-
----
-
-### 🏅 GeeksforGeeks Achievements
-
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/varni152)
-
 **GFG Stats:**  
 ![Problems Solved](https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=flat-square)
 ![Coding Score](https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=flat-square)
 ![Course Completion](https://img.shields.io/badge/Courses-10%2B%20Completed-orange?style=flat-square)
 ![Contest Rank](https://img.shields.io/badge/Contest%20Rank-Under%20500%20🏆-yellowgreen?style=flat-square)
-
-**Key Highlights:**  
-- ✅ 90%+ Problem Solving Accuracy  
-- 🔥 60+ Days Coding Streak  
-- 💻 250+ Code Submissions  
-- 📚 Expert in DSA & Algorithm Design
-
-**Recent Activity:**  
-- Solved "Longest Consecutive Sequence" (Hard)  
-- Completed "System Design" Course  
-- Participated in Weekly Contest #125  
-- Earned "Problem Solver" Badge
-
----
-### 🏆 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourusername/)
-
-**LeetCode Stats:**  
-[![LeetCode Badge](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=ABeeZee)](https://leetcode.com/yourusername/)
-
-**GFG Stats:**  
-![Problems Solved](https://img.shields.io/badge/Solved-500%2B%20Problems-brightgreen?style=flat-square)
-![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1800%2B-blue?style=flat-square)
 
 ---
 
