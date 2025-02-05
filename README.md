@@ -52,9 +52,9 @@
 
 ### 📈 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Varni1512=yourusername&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Varni1512&theme=dark&hide_border=true)
 
 ---
 
@@ -66,6 +66,6 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Varni1512&color=blueviolet&style=flat-square)
 
 ⭐ From Varnikumar Patel
