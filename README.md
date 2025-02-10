@@ -74,6 +74,5 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Varni1512&color=blueviolet&style=flat-square)
 
 ⭐ From Varnikumar Patel
