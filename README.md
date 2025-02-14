@@ -46,9 +46,9 @@
 
 ### 🚀 Projects
 
-#### [Imagify](https://github.com/Varni1512/Imagify)
-- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js, Tailwind CSS)
-- Full-stack web-based platform for text-to-image generation with payment integration
+#### [Real-Time Text Translator Chrome Extension](https://github.com/Varni1512/LanguageTranslatorExtension)
+- **Tech Stack:** HTML, CSS, JS
+- To help users quickly understand foreign language text without leaving the webpage.
 
 #### [PlacementPrep](https://github.com/yourusername/algo-visualizer)
 - **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js, Tailwind CSS)
