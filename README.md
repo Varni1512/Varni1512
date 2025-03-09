@@ -17,26 +17,12 @@
 ---
 
 ## 🏆 Coding Achievements
+<div align="center"> <a href="https://leetcode.com/varni1505/"> <img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/> </a> <br /> <p align="center"> <img src="https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Courses-10%2B%20Completed-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Contest%20Rank-Under%20500%20🏆-yellowgreen?style=for-the-badge" /> </p> </div>
+## 🚀 HackerRank Achievements
+<div align="center"> <table> <tr> <td align="center"> <img src="https://img.shields.io/badge/Java-4%20⭐-brightgreen?style=for-the-badge&logo=java&logoColor=white"/> </td> <td align="center"> <img src="https://img.shields.io/badge/C++-5%20⭐-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </td> <td align="center"> <img src="https://img.shields.io/badge/Python-5%20⭐-yellow?style=for-the-badge&logo=python&logoColor=white"/> </td> </tr> </table> <br />
+🔗 Check out my HackerRank Profile: HackerRank
 
-<div align="center">
-  <a href="https://leetcode.com/varni1505/">
-    <img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/>
-  </a>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Courses-10%2B%20Completed-orange?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Contest%20Rank-Under%20500%20🏆-yellowgreen?style=for-the-badge" />
-  </p>
 </div>
-
-## 🚀 HackerRank Achievements  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-4%20⭐-brightgreen?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-5%20⭐-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-5%20⭐-yellow?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
 
 ---
 
