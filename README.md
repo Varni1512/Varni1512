@@ -84,9 +84,7 @@
 
 ## 📊 GitHub Contribution Graph  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=graywhite&hide_border=true"/>
-</p>
+[![Varni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
