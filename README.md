@@ -31,6 +31,13 @@
   </p>
 </div>
 
+## 🚀 HackerRank Achievements  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-4%20⭐-brightgreen?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-5%20⭐-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-5%20⭐-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
 ---
 
 ## 🚀 Projects
