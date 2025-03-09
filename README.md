@@ -1,69 +1,76 @@
-<!-- Animated Gradient Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
-  
-  ![Profile Views](https://komarev.com/zh/rc/varnikumarpatel?style=flat-square&color=blueviolet)
-</div>
+# DSA Enthusiast 👨💻
+
+![Profile Views](https://komarev.com/zh/rc/varnikumarpatel?style=flat-square&color=blueviolet)
 
 ---
 
 ### 🛠️ Tech Stack
 
-<!-- Animated Tech Stack Grid -->
-<div align="center">
-  
-| **Languages** | **Web & Databases** | **Tools & Frameworks** |
-| :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+**Web Development:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
-
-### 🏆 Coding Achievements
-
-<!-- Coding Profiles Cards -->
-<div align="center">
-  
-| <a href="https://leetcode.com/varni1505/"><img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/></a> | <a href="https://auth.geeksforgeeks.org/user/varni1505"><img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=varni1505&theme=dark" width="400"/></a> |
-| :---: | :---: |
-
-![GFG Stats](https://github-readme-stats-gfg.vercel.app/api?username=varni1505&theme=dark&hide_border=true)
-
-</div>
+**AI/ML:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### � Coding Achievements
 
-<!-- Project Cards with Hover Effects -->
-<div align="center">
+[![LeetCode Stats](https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20)](https://leetcode.com/varni1505/)
 
-| [🌐 Real-Time Text Translator](https://github.com/Varni1512/LanguageTranslatorExtension) | [🎓 PlacementPrep](https://github.com/Varni1512/PlacementPrep) |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> |
-| Chrome Extension for instant text translation | MERN Stack placement preparation platform |
-
-</div>
+**GFG Stats:**  
+![Problems Solved](https://img.shields.io/badge/Solved-400%2B-brightgreen)
+![Coding Score](https://img.shields.io/badge/Score-2000%2B-blue)
+![Rank](https://img.shields.io/badge/Rank-%23467624-yellow)
 
 ---
 
-### 📈 GitHub Analytics
+### 🚀 Projects
 
-<!-- Animated Stats Cards -->
-<div align="center">
+#### 1. Real-Time Text Translator Chrome Extension
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- Chrome extension for instant text translation
 
-![Varni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varni1512&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varni1512&layout=compact&theme=radical&hide_border=true)
+#### 2. PlacementPrep Platform
+![MERN](https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- Full-stack placement preparation platform
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Varni1512&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+#### 3. Sentiment Analysis Tool
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- ML model for text sentiment analysis
 
-</div>
+#### 4. Image Recognition System
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+- CNN-based image classification system
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Varni1512/Varni1512/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+---
+
+### 📊 Skill Matrix
+
+| Category       | Technologies                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| **AI/ML**      | TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, Numpy                     |
+| **Data**       | SQL, MongoDB, BigQuery, Data Visualization                                  |
+| **Tools**      | Git, Docker, Jupyter Notebook, Colab, Tableau                              |
+
+---
+
+### 📈 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
