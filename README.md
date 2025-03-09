@@ -63,10 +63,6 @@
 
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Varni1512/Varni1512/main/github-contribution-grid-snake.svg" />
-</div>
 
 ---
 
