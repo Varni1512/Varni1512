@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there! I'm <span style="color:#54A6FF">Varnikumar Patel</span> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img classname="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
