@@ -17,18 +17,13 @@
 ---
 
 ## 🏆 Coding Achievements
-<div align="center"> <a href="https://leetcode.com/varni1505/"> <img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/> </a> <br /> 📚 GeeksforGeeks Achievements
+<div align="center"> <a href="https://leetcode.com/varni1505/"> <img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/> </a> <br /> GeeksforGeeks Achievements
 <div align="center"> <a href="https://auth.geeksforgeeks.org/user/your_username"> <img src="https://img.shields.io/badge/GeeksforGeeks-Student%20&%20Problem%20Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
 <br /><br />
 
 <table> <tr> <td align="center"> <img src="https://img.shields.io/badge/Solved-300%2B%20Problems-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </td> <td align="center"> <img src="https://img.shields.io/badge/Coding%20Score-450%2B-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Data%20Structures-Expert-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </td> <td align="center"> <img src="https://img.shields.io/badge/Algorithms-Specialist-yellow?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </td> </tr> </table> <br />
-🔗 Check out my GeeksforGeeks Profile: GeeksforGeeks
 
-</div></div>
-## 🚀 HackerRank Achievements
-<div align="center"> <table> <tr> <td align="center"> <img src="https://img.shields.io/badge/Java-4%20⭐-brightgreen?style=for-the-badge&logo=java&logoColor=white"/> </td> <td align="center"> <img src="https://img.shields.io/badge/C++-5%20⭐-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </td> <td align="center"> <img src="https://img.shields.io/badge/Python-5%20⭐-yellow?style=for-the-badge&logo=python&logoColor=white"/> </td> </tr> </table> <br />
-🔗 Check out my HackerRank Profile: HackerRank
-
+</div>
 </div>
 
 ---
