@@ -14,7 +14,7 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,figma,docker,vscode,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,figma,vscode&theme=light" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
@@ -60,8 +60,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Varni1512/DevBuddy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=DevBuddy&theme=radical&hide_border=true"/>
+      <a href="https://github.com/Varni1512/StudyShield">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=StudyShield&theme=radical&hide_border=true"/>
       </a>
     </td>
   </tr>
