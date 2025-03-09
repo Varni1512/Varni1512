@@ -68,7 +68,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varni1512&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24"/>
@@ -98,7 +98,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📧 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varnikumarpatel">
