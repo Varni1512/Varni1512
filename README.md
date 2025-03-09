@@ -1,9 +1,7 @@
 <!-- 🚀 Stunning GitHub Profile README -->
 
 <h1 align="center">Hey there! I'm <span style="color:#54A6FF">Varnikumar Patel</span> 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&color=54A6FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
