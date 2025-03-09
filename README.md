@@ -2,15 +2,19 @@
 
 <h1 align="center">Hey there! I'm <span style="color:#54A6FF">Varnikumar Patel</span> 👋</h1>
 <p align="center">
-  <img classname="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&color=54A6FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varni1512&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,mongodb,express,git,github,figma,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,figma,docker,vscode,linux&theme=light" />
 </p>
 
 ---
@@ -40,12 +44,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Varni1512/QuickLingo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=LanguageTranslatorExtension&theme=radical&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=QuickLingo&theme=radical&hide_border=true"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Varni1512/PlacementPrep">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=PlacementPrep&theme=radical&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Varni1512/Imagify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=Imagify&theme=radical&hide_border=true"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Varni1512/DevBuddy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=DevBuddy&theme=radical&hide_border=true"/>
       </a>
     </td>
   </tr>
@@ -70,6 +86,15 @@
 
 ---
 
+## 💡 Hackathon & Open Source
+
+- 🏆 **Finalist** in **SIH 2024** | **Top 50** in **Vulture Hackathon**
+- 🎯 **Contributed** to Open Source during **Hacktoberfest**
+- 🔥 Building impactful **projects & extensions** for **developers & learners**
+- 🚀 Selected for **Summer of Bitcoin 2025** Bootcamp
+
+---
+
 ## 📫 Let's Connect!
 
 <p align="center">
@@ -84,6 +109,9 @@
   </a>
   <a href="https://leetcode.com/varni1505/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Varni1512">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
