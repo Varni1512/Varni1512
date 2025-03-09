@@ -27,7 +27,11 @@
 | <a href="https://leetcode.com/varni1505/"><img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/></a> | <a href="https://auth.geeksforgeeks.org/user/varni1505"><img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=varni1505&theme=dark" width="400"/></a> |
 | :---: | :---: |
 
-![GFG Stats](https://github-readme-stats-gfg.vercel.app/api?username=varni1505&theme=dark&hide_border=true)
+**GFG Stats:**  
+![Problems Solved](https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=flat-square)
+![Coding Score](https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=flat-square)
+![Course Completion](https://img.shields.io/badge/Courses-10%2B%20Completed-orange?style=flat-square)
+![Contest Rank](https://img.shields.io/badge/Contest%20Rank-Under%20500%20🏆-yellowgreen?style=flat-square)
 
 </div>
 
@@ -61,7 +65,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Varni1512/Varni1512/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Varni1512/Varni1512/main/github-contribution-grid-snake.svg" />
 </div>
 
 ---
