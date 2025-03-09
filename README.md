@@ -86,20 +86,20 @@
 
 ---
 
+## 📊 GitHub Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
 ## 💡 Hackathon & Open Source
 
 - 🏆 **Finalist** in **SIH 2024** | **Top 50** in **Vulture Hackathon**
 - 🎯 **Contributed** to Open Source during **Hacktoberfest**
 - 🔥 Building impactful **projects & extensions** for **developers & learners**
 - 🚀 Selected for **Summer of Bitcoin 2025** Bootcamp
-
----
-
-## 📊 GitHub Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=radical&hide_border=true"/>
-</p>
 
 ---
 
