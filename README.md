@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Varni1512/LanguageTranslatorExtension">
+      <a href="https://github.com/Varni1512/QuickLingo">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=LanguageTranslatorExtension&theme=radical&hide_border=true"/>
       </a>
     </td>
