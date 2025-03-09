@@ -6,53 +6,11 @@
 </p>
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠️ Skills
-
-### Programming Languages
-- **Java** (80%)
-- **C++** (70%)
-- **Python** (50%)
-
-### Frontend Development
-- **HTML5** (95%)
-- **CSS3** (90%)
-- **JavaScript** (92%)
-- **React.js** (95%)
-
-### UI Frameworks
-- **Tailwind CSS** (90%)
-- **Bootstrap** (88%)
-- **Styled Components** (82%)
-- **Framer Motion** (78%)
-
-### Backend Development
-- **Node.js** (80%)
-- **Express.js** (78%)
-- **RESTful APIs** (85%)
-- **Firebase** (75%)
-
-### Databases
-- **MongoDB** (75%)
-- **MySQL** (70%)
-- **Firebase Firestore** (80%)
-
-### Tools
-- **VS Code** (95%)
-- **Figma** (70%)
-- **Vite** (85%)
-
-### Version Control
-- **Git** (90%)
-- **GitHub** (88%)
-
-### Deployment & Hosting
-- **Netlify** (80%)
-- **Vercel** (90%)
-- **Firebase** (70%)
-- **GitHub Pages** (75%)
-- **AWS (Amazon Web Services)** (50%)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,mongodb,express,git,github,figma,docker&theme=light" />
+</p>
 ---
 
 ## 🏆 Coding Achievements
