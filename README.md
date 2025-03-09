@@ -94,7 +94,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Varni1512&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
---
+---
 
 ## 💡 Hackathon & Open Source
 
