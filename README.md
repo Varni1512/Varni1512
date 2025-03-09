@@ -24,8 +24,8 @@
 <!-- Coding Profiles Cards -->
 <div align="center">
   
-| <a href="https://leetcode.com/varni1505/"><img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/></a> | <a href="https://auth.geeksforgeeks.org/user/varni1505"><img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=varni1505&theme=dark" width="400"/></a> |
-| :---: | :---: |
+| <a href="https://leetcode.com/varni1505/"><img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/></a> | 
+| :---: | 
 
 **GFG Stats:**  
 ![Problems Solved](https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=flat-square)
