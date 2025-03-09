@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=500&lines=Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🚀 Tech Stack & Tools
 
@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,figma,vscode&theme=light" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 Coding Achievements
 
@@ -31,7 +31,7 @@
   </p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🚀 Projects
 
@@ -66,7 +66,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Analytics
 
@@ -81,20 +81,24 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Contribution Graph  
 
 [![Varni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 GitHub Trophy 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Varni1512&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🥉 Certification Badges
+
+![github-foundations (1)](https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e)
 
 ## 💡 Hackathon & Open Source
 
@@ -103,7 +107,7 @@
 - 🔥 Building impactful **projects & extensions** for **developers & learners**
 - 🚀 Selected for **Summer of Bitcoin 2025** Bootcamp
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📧 Let's Connect!
 
@@ -125,7 +129,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <h3 align="center">⭐ From Varnikumar Patel</h3>
 <p align="center"><em>"First, solve the problem. Then, write the code." - John Johnson</em></p>
