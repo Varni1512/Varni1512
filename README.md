@@ -39,15 +39,15 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Varni1512/PlacementPrep">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=PlacementPrep&theme=radical&hide_border=true"/>
+      <a href="https://github.com/Varni1512/StudyShield">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=StudyShield&theme=radical&hide_border=true"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Varni1512/StudyShield">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=StudyShield&theme=radical&hide_border=true"/>
+      <a href="https://github.com/Varni1512/PlacementPrep">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=PlacementPrep&theme=radical&hide_border=true"/>
       </a>
     </td>
     <td align="center">
