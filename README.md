@@ -83,10 +83,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
- Hackathon & Open Source Finalist in SIH 2024 | Top 50 in Vulture Hackathon
- Contributed to Open Source during Hacktoberfest
- Building impactful projects & extensions for developers & learners
- Selected for Summer of Bitcoin 2025 Bootcamp
+ - Hackathon & Open Source Finalist in SIH 2024 | Top 50 in Vulture Hackathon
+ - Contributed to Open Source during Hacktoberfest
+ - Building impactful projects & extensions for developers & learners
+ - Selected for Summer of Bitcoin 2025 Bootcamp
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
