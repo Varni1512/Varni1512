@@ -46,11 +46,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Varni1512/Imagify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=Imagify&theme=radical&hide_border=true"/>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Varni1512/StudyShield">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=StudyShield&theme=radical&hide_border=true"/>
       </a>
