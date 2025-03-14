@@ -13,10 +13,6 @@
   <!-- Supported icons -->
   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,mongodb,nodejs,express,tailwindcss,bootstrap,firebase,mysql,vercel,git,github,figma,vscode&theme=light" />
 </p>
-<p align="center">
-  <!-- Additional skills without icons -->
-  <strong>Additional Skills:</strong> RESTful API, EJS, NumPy, Pandas
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
