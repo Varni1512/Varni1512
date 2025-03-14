@@ -97,11 +97,10 @@
 
 ## Resume
 <p align="center">
-  <a href="[INSERT_YOUR_RESUME_LINK_HERE]">
+  <a href="https://raw.githubusercontent.com/Varni1512/Varni1512/main/varnikumar.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
-<em>Note: Replace [INSERT_YOUR_RESUME_LINK_HERE] with the actual link to your resume (e.g., Google Drive, personal website, etc.)</em>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
