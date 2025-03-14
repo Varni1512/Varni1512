@@ -10,7 +10,12 @@
 
 ## Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,mongodb,nodejs,express,ejs,tailwindcss,bootstrap,firebase,mysql,restapi,vercel,git,github,numpy,pandas,figma,vscode&theme=light" />
+  <!-- Supported icons -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,mongodb,nodejs,express,tailwindcss,bootstrap,firebase,mysql,vercel,git,github,figma,vscode&theme=light" />
+</p>
+<p align="center">
+  <!-- Additional skills without icons -->
+  <strong>Additional Skills:</strong> RESTful API, EJS, NumPy, Pandas
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -97,7 +102,7 @@
 
 ## Resume
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Varni1512/Varni1512/main/varnikumar.pdf">
+  <a href="https://raw.githubusercontent.com/Varni1512/Varni1512/main/Varnikumar.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </p>
