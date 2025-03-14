@@ -1,4 +1,4 @@
-<!--  Stunning GitHub Profile README -->
+<!-- Enhanced GitHub Profile README -->
 
 <h1 align="center">Hey there! I'm <span style="color:#54A6FF">Varnikumar Patel</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 
@@ -8,13 +8,15 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
- Tech Stack & Tools<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,figma,vscode&theme=light" />
+## Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,mongodb,nodejs,express,ejs,tailwindcss,bootstrap,firebase,mysql,restapi,vercel,git,github,numpy,pandas,figma,vscode&theme=light" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
- Coding Achievements<div align="center">
+## Coding Achievements
+<div align="center">
   <a href="https://leetcode.com/varni1505/">
     <img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=ABeeZee&border=0&radius=20&animation=true" width="400"/>
   </a>
@@ -23,14 +25,14 @@
     <img src="https://img.shields.io/badge/Solved-400%2B%20Problems-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Coding%20Score-2000%2B-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Courses-10%2B%20Completed-orange?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Contest%20Rank-Under%20500%20-yellowgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Contest%20Rank-Under%20500-yellowgreen?style=for-the-badge" />
   </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
- Projects<div align="center">
-
+## Projects
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -57,13 +59,13 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
- GitHub Analytics<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varni1512&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24"/>
+## GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varni1512&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&line_height=24"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varni1512&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
@@ -75,22 +77,36 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
- GitHub Contribution Graph![Varni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=react-dark&hide_border=true)<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+## GitHub Contribution Graph
+![Varni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&theme=react-dark&hide_border=true)
 
- GitHub Trophy<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## GitHub Trophy
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Varni1512&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
- - Hackathon & Open Source Finalist in SIH 2024 | Top 50 in Vulture Hackathon
- - Contributed to Open Source during Hacktoberfest
- - Building impactful projects & extensions for developers & learners
- - Selected for Summer of Bitcoin 2025 Bootcamp
+## Achievements & Contributions
+- Hackathon & Open Source Finalist in SIH 2024 | Top 50 in Vulture Hackathon
+- Contributed to Open Source during Hacktoberfest
+- Building impactful projects & extensions for developers & learners
+- Selected for Summer of Bitcoin 2025 Bootcamp
+
+## Resume
+<p align="center">
+  <a href="[INSERT_YOUR_RESUME_LINK_HERE]">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+  </a>
+</p>
+<em>Note: Replace [INSERT_YOUR_RESUME_LINK_HERE] with the actual link to your resume (e.g., Google Drive, personal website, etc.)</em>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
- Let's Connect!<p align="center">
+## Let's Connect!
+<p align="center">
   <a href="https://www.linkedin.com/in/varnikumarpatel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -110,6 +126,5 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<h3 align="center"> From Varnikumar Patel</h3>
+<h3 align="center">From Varnikumar Patel</h3>
 <p align="center"><em>"First, solve the problem. Then, write the code." - John Johnson</em></p>
-
