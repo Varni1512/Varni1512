@@ -20,7 +20,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## Tech Stack & Tools
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://www.java.com/" target="_blank">
@@ -32,17 +31,17 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
-
+   <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  </a>
   <!-- Frameworks & Libraries -->
+
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   </a>
@@ -61,8 +60,8 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   </a>
-
   <!-- Databases -->
+
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
@@ -72,14 +71,11 @@
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   </a>
-
   <!-- AI/ML Tools -->
+
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   </a>
@@ -104,8 +100,13 @@
   <a href="https://scipy.org/" target="_blank">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
   </a>
+  <!-- DSA & Additional Skills -->
 
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
+    <img src="https://img.shields.io/badge/DSA-%230077B5.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Data Structures & Algorithms" />
+  </a>
   <!-- Tools & Platforms -->
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
@@ -128,6 +129,8 @@
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   </a>
 </p>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Coding Achievements
