@@ -11,7 +11,7 @@
 # 💫 About Me:
 👋 I'm a Computer Science and Engineering student at VIT, graduating in 2027, with a focus on Full Stack Development and AI/ML.<br>
 🔭 I’ve mastered web development, building full-stack applications with smarter, more intuitive user experiences, and I’m now diving deep into AI/ML with a **100 Days ML Challenge** to sharpen my skills.<br>
-💻 I’ve conquered Data Structures and Algorithms (DSA), completing a **100 Days DSA Challenge**, solving 400+ problems, and achieving a coding score of 2000+ on platforms like LeetCode.<br>
+💻 I’ve conquered Data Structures and Algorithms (DSA), completing a **100 Days DSA Challenge**, solving 400+ problems, and achieving a coding score of 2000+ on platforms like GFG.<br>
 🌐 I actively contribute to **open-source projects** during events like Hacktoberfest and have participated in **hackathons**, including being a finalist in SIH 2024 and ranking in the Top 50 at Vulture Hackathon.<br>
 👯 I’m looking to collaborate on open-source projects related to web development, AI, or anything that involves creating innovative digital solutions.<br>
 🤝 I’m seeking help with scaling cloud infrastructure and optimizing machine learning models for real-world applications.<br>
@@ -206,12 +206,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## Achievements & Contributions
-- Hackathon & Open Source Finalist in SIH 2024 | Top 50 in Vulture Hackathon
-- Contributed to Open Source during Hacktoberfest
-- Building impactful projects & extensions for developers & learners
-- Selected for Summer of Bitcoin 2025 Bootcamp
 
 ## Resume
 <p align="center">
