@@ -151,37 +151,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## Projects
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Varni1512/QuickLingo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=QuickLingo&theme=radical&hide_border=true"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Varni1512/StudyShield">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=StudyShield&theme=radical&hide_border=true"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Varni1512/PlacementPrep">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=PlacementPrep&theme=radical&hide_border=true"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Varni1512/Imagify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varni1512&repo=Imagify&theme=radical&hide_border=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## GitHub Analytics
 <p align="center">
@@ -209,14 +178,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## Resume
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Varni1512/Varni1512/main/Varnikumar.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Let's Connect!
 <p align="center">
