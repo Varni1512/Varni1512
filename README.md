@@ -5,12 +5,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** from **VIT Bhopal University (CGPA: 8.05)**  
-- 💼 Currently working as a **Web Developer Intern at Mittal Alliance Industries Pvt. Ltd.**  
-- 🧠 Passionate about **building modern, scalable, and intuitive web experiences**  
-- 🚀 Exploring **Next.js, AI APIs, and AWS Cloud Deployment**  
-- 🏆 **Amazon ML Summer School 2025 Scholar** | **Smart India Hackathon Finalist 2024**  
-- ☕ I turn ideas into code — with React, Tailwind & late-night coffee.
+-  Pursuing **B.Tech in Artificial Intelligence & Machine Learning** from **VIT Bhopal University (CGPA: 8.05)**  
+-  Currently working as a **Web Developer Intern at Mittal Alliance Industries Pvt. Ltd.**  
+-  Passionate about **building modern, scalable, and intuitive web experiences**  
+-  Exploring **Next.js, AI APIs, and AWS Cloud Deployment**  
+-  **Amazon ML Summer School 2025 Scholar** | **Smart India Hackathon Finalist 2024**  
+-  I turn ideas into code — with React, Tailwind & late-night coffee.
 
 ---
 
@@ -43,19 +43,19 @@
 
 ## 💡 Featured Projects
 
-### 🩺 MediTalk – *AI-Powered Medical Consultations*
+###  MediTalk – *AI-Powered Medical Consultations*
 **Next.js | Tailwind CSS | Assembly AI | Vapi API | Clerk**  
 > Real-time voice consultation web app offering instant AI-based diagnosis and prescriptions.
 
 ---
 
-### 💻 CompileVerse – *Code Complexity Analyzer*
+###  CompileVerse – *Code Complexity Analyzer*
 **React | Node.js | Gemini API | Docker | AWS**  
 > MERN-based platform that evaluates code complexity and provides AI-driven optimization suggestions.
 
 ---
 
-### 🛍️ TrendWear – *Smart E-Commerce System*
+###  TrendWear – *Smart E-Commerce System*
 **React | MongoDB | Razorpay | Express.js**  
 > A full-stack solution for small businesses — faster transactions, dual dashboards & product tracking.
 
@@ -84,11 +84,11 @@
 
 ## 🏆 Achievements
 
-- 🎯 **Amazon ML Summer School 2025** — selected among 60,000+  
-- 🏆 **Smart India Hackathon 2024 Finalist**  
-- 💡 **GSSoC’25 Contributor** — 10+ PRs & active OSS participant  
-- 👨‍💻 **Technical Lead, Ramanujan Club (VIT Bhopal)**  
-- 🤝 **Placement Cell Member** — coordinated TCS recruitment for 300+ students  
+-  **Amazon ML Summer School 2025** — selected among 60,000+  
+-  **Smart India Hackathon 2024 Finalist**  
+-  **GSSoC’25 Contributor** — 10+ PRs & active OSS participant  
+-  **Technical Lead, Ramanujan Club (VIT Bhopal)**  
+-  **Placement Cell Member** — coordinated TCS recruitment for 300+ students  
 
 ---
 
