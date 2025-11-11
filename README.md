@@ -5,11 +5,9 @@
 
 ## 🧑‍💻 About Me
 
--  Pursuing **B.Tech in Artificial Intelligence & Machine Learning** from **VIT Bhopal University (CGPA: 8.05)**  
+-  Pursuing **B.Tech in Artificial Intelligence & Machine Learning** from **VIT Bhopal University**  
 -  Currently working as a **Web Developer Intern at Mittal Alliance Industries Pvt. Ltd.**  
 -  Passionate about **building modern, scalable, and intuitive web experiences**  
--  Exploring **Next.js, AI APIs, and AWS Cloud Deployment**  
--  **Amazon ML Summer School 2025 Scholar** | **Smart India Hackathon Finalist 2024**  
 -  I turn ideas into code — with React, Tailwind & late-night coffee.
 
 ---
@@ -87,8 +85,6 @@
 -  **Amazon ML Summer School 2025** — selected among 60,000+  
 -  **Smart India Hackathon 2024 Finalist**  
 -  **GSSoC’25 Contributor** — 10+ PRs & active OSS participant  
--  **Technical Lead, Ramanujan Club (VIT Bhopal)**  
--  **Placement Cell Member** — coordinated TCS recruitment for 300+ students  
 
 ---
 
