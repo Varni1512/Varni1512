@@ -53,12 +53,6 @@
 
 ---
 
-###  TrendWear – *Smart E-Commerce System*
-**React | MongoDB | Razorpay | Express.js**  
-> A full-stack solution for small businesses — faster transactions, dual dashboards & product tracking.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
