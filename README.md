@@ -5,82 +5,149 @@
 
 ## 🧑‍💻 About Me
 
--  Pursuing **B.Tech in Artificial Intelligence & Machine Learning** from **VIT Bhopal University**  
--  Currently working as a **Web Developer Intern at Mittal Alliance Industries Pvt. Ltd.**  
--  Passionate about **building modern, scalable, and intuitive web experiences**  
--  I turn ideas into code — with React, Tailwind & late-night coffee.
+-  Pre-final year **B.Tech student in Artificial Intelligence & Machine Learning** at **VIT Bhopal University**  
+-  Former **Software Development Engineer (SDE) Intern @ BADVERSE (Powered by Mittal)** & **Full Stack Web Developer Intern @ Mittal Alliance Industries Pvt. Ltd.**  
+-  Passionate about building **scalable, high-performance, and user-centric web applications**  
+-  Strong foundation in **MERN stack, system design, and problem-solving**  
+-  Turning ideas into production-ready code using **React, Tailwind, Node.js & late-night coffee**  
 
----
 
-## 🚀 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 💻 Skills
 
-**Backend / Cloud:**  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<h2 align="left"> Frontend </h2> 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
+</div>
 
-**Tools & Workflow:**  
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<h2 align="left"> Backend </h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet" />
+</div>
 
----
+<h2 align="left"> Databases </h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=mongo,mysql,firebase" />
+</div>
+
+<h2 align="left"> Programming Languages </h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</div>
+
+<h2 align="left"> Tools & Technologies </h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,figma" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
 
 ## 💡 Featured Projects
 
-###  MediTalk – *AI-Powered Medical Consultations*
-**Next.js | Tailwind CSS | Assembly AI | Vapi API | Clerk**  
-> Real-time voice consultation web app offering instant AI-based diagnosis and prescriptions.
+<table>
+<tr>
 
----
+<td width="50%" style="padding:15px;">
 
-###  CompileVerse – *Code Complexity Analyzer*
-**React | Node.js | Gemini API | Docker | AWS**  
-> MERN-based platform that evaluates code complexity and provides AI-driven optimization suggestions.
+### <a href="https://github.com/Varni1512/SwasthyaSathi" target="_blank">SwasthyaSathi</a>  
+**AI-Powered Medical Consultations**  
 
----
+**Tech:** Next.js, Tailwind CSS, Assembly AI, Vapi API, Clerk  
 
-## 📈 GitHub Stats
+Real-time AI voice consultation platform enabling instant medical diagnosis and smart prescription generation.
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varni1512&show_icons=true&theme=react&border_radius=10" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varni1512&theme=react&border_radius=10" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varni1512&bg_color=0D1117&color=3EB489&line=3EB489&point=FFFFFF&area=true&hide_border=true" />
-</p>
+</td>
 
----
+<td width="50%" style="padding:15px;">
 
-## 🧩 Competitive Programming
+### <a href="https://github.com/Varni1512/CompileVerse" target="_blank">CompileVerse</a>  
+**AI Code Compiler & Complexity Analyzer**  
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Varni1512?theme=dark&font=Baloo%202&ext=contest" />
-</p>
+**Tech:** React, Node.js, Gemini API, Docker, AWS  
 
----
+AI-driven MERN platform that analyzes code complexity and provides real-time optimization suggestions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" style="padding:15px;">
+
+### <a href="https://github.com/Varni1512/KisanHub" target="_blank">KisanHub</a>  
+**Smart Agriculture Marketplace Platform**  
+
+**Tech:** React, Node.js, MongoDB, Express.js, Tailwind CSS, GSAP  
+
+Scalable digital marketplace connecting farmers directly with buyers, enabling fair pricing, chat, and secure transactions.
+
+</td>
+
+<td width="50%" style="padding:15px;">
+
+### <a href="https://github.com/Varni1512/Macbook" target="_blank">MacBook UI Animation</a>  
+**Apple-Inspired Product Showcase**  
+
+**Tech:** React, Tailwind CSS, Framer Motion, GSAP  
+
+High-fidelity MacBook product animation with smooth scroll-based interactions inspired by Apple’s official UI.
+
+</td>
+
+</tr>
+</table>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+
+## 📊 GitHub Stats:   
+    
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varni1512&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varni1512&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varni1512&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varni1512&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varni1512&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Varni1512&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Varni1512&theme=radical">
+
+</div><br>   
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
+## :zap: My LeetCode Stats 📊
+<h3 align="left">Leetcode Stats:</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
+    </td> 
+    <td>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=varni1505&theme=dark&border=border&animated=true" alt="LeetCode Badges">
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
 
 ## 🏆 Achievements
 
--  **Amazon ML Summer School 2025** — selected among 60,000+  
--  **Smart India Hackathon 2024 Finalist**  
--  **GSSoC’25 Contributor** — 10+ PRs & active OSS participant  
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon%20ML%20Summer%20School%202025-Selected-orange?style=for-the-badge&logo=amazon" />
+</p>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+
 
 ## 🌐 Connect With Me
 
@@ -90,6 +157,6 @@
   <a href="https://github.com/Varni1512"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 <h3 align="center">✨ Crafting clean, fast, and intelligent web experiences ✨</h3>
