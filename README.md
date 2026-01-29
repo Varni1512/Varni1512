@@ -123,18 +123,22 @@ High-fidelity MacBook product animation with smooth scroll-based interactions in
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## :zap: My LeetCode Stats 📊
-<h3 align="left">Leetcode Stats:</h3>
+## ⚡ Coding Profiles Stats 📊
+
 <table>
-  <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
-    </td> 
-    <td>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=varni1505&theme=dark&border=border&animated=true" alt="LeetCode Badges">
-    </td>
-  </tr>
+<tr>
+<td>
+<h3>LeetCode</h3>
+<img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=Rubik&ext=heatmap" />
+</td>
+
+<td>
+<h3>Codeforces</h3>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=varni1512&theme=dark" />
+</td>
+</tr>
 </table>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
