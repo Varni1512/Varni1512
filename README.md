@@ -123,7 +123,7 @@ High-fidelity MacBook product animation with smooth scroll-based interactions in
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
-## ⚡ Coding Profiles Stats 📊
+## ⚡ Coding Profiles Stats 
 
 <table>
 <tr>
