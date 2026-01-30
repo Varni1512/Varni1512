@@ -1,6 +1,6 @@
 <!-- Modern Developer Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Varnikumar Patel - Full Stack Web Developer Banner" width="100%" />
+  <img src="./b.png" alt="Varnikumar Patel - Full Stack Web Developer Banner" width="100%" />
 </p>
 
 ## 🧑‍💻 About Me
