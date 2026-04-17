@@ -51,19 +51,19 @@
 <table>
 <tr>
 
-<td width="50%" style="padding:15px;">
+<td width="50%" style="padding:5px;">
 
-### <a href="https://github.com/Varni1512/SwasthyaSathi" target="_blank">SwasthyaSathi</a>  
-**AI-Powered Medical Consultations**  
+### <a href="https://github.com/Varni1512/Recruit_Sphere" target="_blank">Recruiter Sphere</a>  
+**AI-Powered Hiring & Candidate Management Platform**  
 
-**Tech:** Next.js, Tailwind CSS, Assembly AI, Vapi API, Clerk  
+**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
 
-Real-time AI voice consultation platform enabling instant medical diagnosis and smart prescription generation.
+A smart recruitment platform that streamlines hiring by enabling candidate management, job tracking, and AI-driven insights for better hiring decisions.
 
 
 </td>
 
-<td width="50%" style="padding:15px;">
+<td width="50%" style="padding:5px;">
 
 ### <a href="https://github.com/Varni1512/CompileVerse" target="_blank">CompileVerse</a>  
 **AI Code Compiler & Complexity Analyzer**  
@@ -78,7 +78,7 @@ AI-driven MERN platform that analyzes code complexity and provides real-time opt
 
 <tr>
 
-<td width="50%" style="padding:15px;">
+<td width="50%" style="padding:5px;">
 
 ### <a href="https://github.com/Varni1512/KisanHub" target="_blank">KisanHub</a>  
 **Smart Agriculture Marketplace Platform**  
@@ -89,7 +89,7 @@ Scalable digital marketplace connecting farmers directly with buyers, enabling f
 
 </td>
 
-<td width="50%" style="padding:15px;">
+<td width="50%" style="padding:5px;">
 
 ### <a href="https://github.com/Varni1512/Macbook" target="_blank">MacBook UI Animation</a>  
 **Apple-Inspired Product Showcase**  
