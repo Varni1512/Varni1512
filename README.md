@@ -203,7 +203,7 @@ class VarnikumarPatel:
 
 <div align="center">
 <table><tr>
-<td><img src="https://leetcard.jacoblin.cool/varni1505?theme=dark&font=Rubik&ext=heatmap"/></td>
+<td><img src="https://leetcard.jacoblin.cool/Varni1102?ext=contest&theme=dark"/></td>
 <td><img src="https://codeforces-readme-stats.vercel.app/api/card?username=varni1512&theme=dark"/></td>
 </tr></table>
 </div>
