@@ -45,13 +45,12 @@ class VarnikumarPatel:
 
     domains    = [
         "Full Stack Web Development (MERN)",
-        "AI / ML & NLP Pipelines",
         "System Design & REST APIs",
         "Cloud Infrastructure (AWS, Docker)",
         "Competitive Programming (DSA in Java)",
     ]
 
-    achievement = "Amazon ML Summer School 2025 | Codeforces Specialist | 300+ Problems"
+    achievement = "Amazon ML Summer School 2025 & 2026 | Codeforces Specialist | 300+ Problems"
 ```
 
 <br clear="right"/>
@@ -138,16 +137,6 @@ class VarnikumarPatel:
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
 
-### AI / ML 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-000000?style=flat-square&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-000000?style=flat-square&logo=spacy&logoColor=white)
-
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -180,22 +169,6 @@ class VarnikumarPatel:
 │  🎓 CGPA: 7.90 / 10 — B.Tech AI & ML, VIT Bhopal University              │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 🔭 Domains & Interests
-
-<div align="center">
-
-| Domain | Focus |
-|---|---|
-| 🌐 Full Stack Development | MERN, Next.js, REST APIs, System Design |
-| 🧠 AI / ML | NLP Pipelines, spaCy, ML Scoring, Gemini API |
-| ☁️ Cloud & DevOps | AWS EC2, Docker, IAM, CI/CD |
-| ⚔️ Competitive Programming | DSA in Java, Codeforces, LeetCode |
-| 🎨 UI Engineering | Framer Motion, GSAP, Tailwind CSS Animations |
-
-</div>
 
 ---
 
